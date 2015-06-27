@@ -1,1 +1,1 @@
-This repository contains assorted assets created by the "Dar Ramani Huria" project. See http://ramanihuria.org/.
+This repository contains assorted assets created during the "Dar Ramani Huria" project. See http://ramanihuria.org/.
