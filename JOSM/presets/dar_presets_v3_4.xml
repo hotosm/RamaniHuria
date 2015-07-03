@@ -111,10 +111,6 @@
                 <key key="amenity" value="toilets"/>
                 <text key="toilets:num_chambers" text="Number of toilets"/>
             </item>
-            <item name="Solid waste" type="node,closedway">
-                <key key="landuse" value="dump"/>
-                <check key="dump:official" text="Official?" default="off" delete_if_empty="true"/>
-            </item>
         </group>
 
         <group name="Land use">
@@ -150,6 +146,10 @@
 				<key key="amenity" value="money_transfer" />
 				<text key="operator" text="Operator" default="" delete_if_empty="true"/>
 			</item>
+			<item name="Solid waste" type="node,closedway">
+                <key key="landuse" value="dump"/>
+                <check key="dump:official" text="Official?" default="off" delete_if_empty="true"/>
+            </item>
 		</group>
 	</group>
 </presets>
