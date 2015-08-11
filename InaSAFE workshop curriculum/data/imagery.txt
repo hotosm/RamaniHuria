@@ -1,0 +1,3 @@
+Available from OpenArialMap; see http://beta.openaerialmap.org/#/-6.795535025719518,39.2431640625,13/-6.795517204616062,39.2431640625/556f7a49ac00a903002fb01e
+
+Or use http://a.tiles.mapbox.com/v4/droneadv.l8kc6bho/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHJvbmVhZHYiLCJhIjoiYmU0ZXQtcyJ9.8Fh95YZQ_WdYEDlgtmH95A
