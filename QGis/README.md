@@ -14,7 +14,7 @@ Two files are provided: the full QGIS project in `Dar es Salaam.zip` and an exam
 - Unzip `dar_es_salaam.shp_2015-10-07.zip` (or a fresh set of shapefiles; recommended, see below) into the `/shapefiles` directory.
 - Run the QGIS project file, `DarEsSalaam.qgs`.
 
-It is recommended to download a fresh set of shapefiles from the area of your interest from the HOT export tool at http://export.hotosm.org/en/, then set the CRS accordingly to the desired one for your area (set to Arc1960 for Tanzania/Dar es Salaam).
+It is recommended to download a fresh set of shapefiles for the area of your interest from the HOT export tool at http://export.hotosm.org/en/, then set the CRS to the desired one for your area (the project is set to Arc1960 for Tanzania/Dar es Salaam).
 
 ### Contents
 
