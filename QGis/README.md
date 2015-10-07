@@ -2,7 +2,7 @@
 
 This directory contains the QGIS project as used by Ramani Huria to produce maps for both general use and specific drainage maps. The map styles are based on the default OpenStreetMap look, but adapted to show more details on drainage, water network, building type, and landuse, amongst others.
 
-Two files are provided: the full QGIS project in `Dar es Salaam.zip` and an example set of shapefiles is provided in `dar_es_salaam.shp_2015-10-07`.
+Two files are provided: the full QGIS project in `Dar es Salaam.zip` and an example set of shapefiles is provided in `dar_es_salaam.shp_2015-10-07.zip`.
 
 ### Prerequisites
 
@@ -11,10 +11,10 @@ Two files are provided: the full QGIS project in `Dar es Salaam.zip` and an exam
 ### Usage
 
 - Unzip `Dar es Salaam.zip` into a new folder .
-- Unzip "dar_es_salaam.shp_2015-10-07" (or a fresh set of shapefiles; recommended, see below) into the `/shapefiles` directory.
+- Unzip `dar_es_salaam.shp_2015-10-07.zip` (or a fresh set of shapefiles; recommended, see below) into the `/shapefiles` directory.
 - Run the QGIS project file, `DarEsSalaam.qgs`.
 
-It is recommended to download a fresh set of shapefiles from the area of your interest from the HOT export tool at http://export.hotosm.org/en/, then set the CRS accordingly to the desired one for your area (for Tanzania/Dar es Salaam, it's set to Arc1960). 
+It is recommended to download a fresh set of shapefiles from the area of your interest from the HOT export tool at http://export.hotosm.org/en/, then set the CRS accordingly to the desired one for your area (set to Arc1960 for Tanzania/Dar es Salaam).
 
 ### Contents
 
